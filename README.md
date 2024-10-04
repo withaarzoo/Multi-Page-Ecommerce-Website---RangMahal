@@ -48,8 +48,7 @@ This multi-page ecommerce website includes the following key pages:
 
 - Remix Icon : [visit site](https://ionic.io/ionicons)
 - Google Fonts : [visit site](https://www.emailjs.com/)
-- Scroll Reveal CDN : [visit site](https://scrollrevealjs.org/guide/installation.html)
-- swiper CDN : [visit site](https://swiperjs.com/get-started#use-swiper-from-cdn)
+- Email JS : [visit site](https://www.emailjs.com/)
 
 ## Source Code
 
