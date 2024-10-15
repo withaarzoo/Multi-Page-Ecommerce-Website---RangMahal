@@ -69,7 +69,7 @@ If you want to contact me you can reach me at [Bento](https://bento.me/withaarzo
 
 ## Thumbnail
 
-![Kira Lee Portfolio Desktop Demo](./readme-image/modern-furniture-website.png "thumbnail")
+![Kira Lee Portfolio Desktop Demo](./readme-image/Thumbnail-1.png "thumbnail")
 
 ---
 
