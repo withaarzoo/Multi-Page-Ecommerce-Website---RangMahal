@@ -14,7 +14,7 @@
 Welcome to the RangMahal project! This repository contains the source code for building a beautiful, SEO-optimized multi-page ecommerce website using HTML, CSS, and JavaScript. The website includes a homepage (index.html), About Us page, Products page, and a Contact Us page, all designed to offer a seamless user experience for ecommerce stores.
 
   <div>
-    <a href="#"><strong>➥ Watch Tutorial</strong></a>
+    <a href="https://youtu.be/DjJTXXKETiE?si=fMJJDU_vfIv0QwdL"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
     <a href="tel:+917586073575"><strong>➥ Download Full Source Code : +91 7586073575 ( WhatsApp )</strong></a>
@@ -28,8 +28,9 @@ To start using the RangMahal website, follow these simple steps:
 
 1. Clone the repository to your local machine:
 
-bash
+```bash
 git clone https://github.com/withaarzoo/Multi-Page-Ecommerce-Website---RangMahal.git
+```
 
 2. Open the project in your favorite code editor.
 
@@ -60,7 +61,7 @@ For the full source code, you can connect via WhatsApp:
 
 Need some extra guidance? Watch our video tutorial on setting up and customizing your website:
 
-- [Modern Furniture Website Tutorial](https://youtu.be/KXymZtuRRyk)
+- [SEO Optimized Multipage E-Commerce Website Tutorial](https://youtu.be/DjJTXXKETiE?si=fMJJDU_vfIv0QwdL)
 
 ## Connect with Me
 
